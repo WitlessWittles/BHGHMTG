@@ -23,10 +23,89 @@
 				<cmc>4</cmc>
 				<type>Legendary Creature - Vampire</type>
 				<colors>R</colors>
+				<maintype>Creature</maintype>
 				<format-commander>legal</format-commander>
 				<side>front</side>
+				<pt>6/3</pt>
 			</prop>
 			<set rarity="common" muid="1" num="1" uuid="00000000-0000-0000-0000-000000000001">BHGH</set>
 		</card>
+		<card>
+			<name>Caligrade, Guardsman</name>
+			<text>Whenever you deal combat damage with Caligrade, put a Quest Counter onto Caligrade. {R}{R}, Spend 3 Quest Counters: Exile Caligrade, then return him to the battlefield transformed under its owner's control.</text>
+			<prop>
+				<cmc>5</cmc>
+				<type>Legendary Creature - Human Soldider</type>
+				<coloridentity>R</coloridentity>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<maintype>Creature</maintype>
+				<pt>5/5</pt>
+				<layout>transform</layout>
+			</prop>
+			<set rarity="common" muid="2" num="2" uuid="00000000-0000-0000-0000-000000000002">BHGH</set>
+			<related attach="transform">Caligrade, Flame of Imorcia</related>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caligrade, Flame of Imorcia</name>
+			<text>Menace, Vigilance. Whenever Caligrade, Flame of Imorcia deals combat damage to a Player, add 1 Quest Counter. Whenever Caligrade, Flame of Imorcia would be destroyed, you may instead transform him.</text>
+			<prop>
+				<cmc>0</cmc>
+				<type>Legendary Creature - Human Soldider</type>
+				<coloridentity>R</coloridentity>
+				<format-commander>legal</format-commander>
+				<side>back</side>
+				<maintype>Creature</maintype>
+				<pt>10/7</pt>
+				<layout>transform</layout>
+			</prop>
+			<set rarity="common" muid="3" num="2" uuid="00000000-0000-0000-0000-000000000002">BHGH</set>
+			<related attach="transform">Caligrade, Guardsman</related>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal, The Cycle Unforgotten</name>
+			<text>When you cast a non-creature spell, roll a d20, then summon a creature token based on the result. 1-5 | Create a 1/1 Squirrel Creature Token with Haste. 6-10 | Create a 1/1 Bird Creature Token with Flying. 11-17 | Create a 1/1 Snake Creature token with Deathtouch. 18-20 | Create a 4/4 Elemental Creature token with Vigilance and Reach. Partner - Chaos.</text>
+			<prop>
+				<cmc>3</cmc>
+				<type>Legendary Creature - Elf Druid</type>
+				<colors>G</colors>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>1/3</pt>
+			</prop>
+			<set rarity="common" num="3" uuid="00000000-0000-0000-0000-000000000003">BHGH</set>
+		</card>
+		<card>
+			<name>Mizo, The Forgotten Disorder</name>
+			<text>Once per turn, when you roll a d20, Mizo also rolls a d20, then trigger an ability based on the result. If this effect was triggered by Crystal, she instead rolls 2 d20s, and picks either result. 1 | Remove all counters from creatures. If this option was picked, Mizo and Crystal keep their counters until end of turn. 2-10 | Put a +1/+1 counter on Mizo, she gains Trample until end of turn. 11-19 | Put a +1/+1 counter on all of target player's creatures, Proliferate. 20 | Create a token copy of Mizo, except it is not legendary. Partner - Chaos</text>
+			<prop>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Vampire</type>
+				<colors>UR</colors>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>4/5</pt>
+			</prop>
+			<set rarity="common" num="4" uuid="00000000-0000-0000-0000-000000000004">BHGH</set>
+		</card>
+		<card>
+			<name>Elise De La Serre</name>
+			<text>All creatures have disguise, where the cost is their mana value. Initial cost to disguise is reduced by 1. The first time you flip over a card each turn, draw one card.</text>
+			<prop>
+				<cmc>4</cmc>
+				<type>Legendary Creature - Human Assassin Knight</type>
+				<colors>RWB</colors>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>3/3</pt>
+			</prop>
+			<set rarity="common" num="5" uuid="00000000-0000-0000-0000-000000000005">BHGH</set>
+		</card>
+			
 	</cards>
 </cockatrice_carddatabase>
