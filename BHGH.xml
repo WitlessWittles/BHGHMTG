@@ -106,6 +106,19 @@
 			</prop>
 			<set rarity="common" num="5" uuid="00000000-0000-0000-0000-000000000005">BHGH</set>
 		</card>
-			
+		<card>
+			<name>Madeline, Mountain Climber</name>
+			<text>Vigilance. When Madeline enters, create Celeste Mountain, a legendary colorless Mountain land token with "Whenever one or more legendary creatures attack, manifest dread." 1: Madeline can't be blocked this turn and gains ward 1 until end of turn.</text>
+			<prop>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Human Scout</type>
+				<colors>GB</colors>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>1/1</pt>
+			</prop>
+			<set rarity="common" num="6" uuid=00000000-0000-0000-0000-000000000006">BHGH</set>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
