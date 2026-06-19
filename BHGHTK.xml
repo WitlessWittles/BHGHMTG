@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
+    <info>
+        <author>Wittles</author>
+        <createdAt>2025-02-26T19:45:56Z</createdAt>
+        <sourceUrl>unknown</sourceUrl>
+        <sourceVersion>unknown</sourceVersion>
+    </info>
+    <sets>
+        <set>
+            <name>BHGH</name>
+            <longname>Bree Hive - Gaming Hub Tokens</longname>
+            <settype>Tokens</settype>
+            <releasedate></releasedate>
+            <priority>0</priority>
+        </set>
+    </sets>
+	<cards>
+		<card>
+            <name>Celeste Mountain</name>
+            <text>Whenever one or more legendary creatures attack, manifest dread.</text>
+            <prop>
+                <type>Token Legendary Land - Mountain</type>
+                <maintype>Land</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <reverse-related>Madeline, Mountain Climber</reverse-related>
+            <token>1</token>
+            <tablerow>0</tablerow>
+        </card>
+	</cards>
+</cockatrice_carddatabase>
