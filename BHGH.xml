@@ -144,7 +144,7 @@
 				<maintype>Creature</maintype>
 				<format-commander>legal</format-commander>
 				<side>front</side>
-				<pt>3/3</pt>
+				<pt>1/3</pt>
 				</prop>
 			<set rarity="common" num="8" uuid="00000000-0000-0000-0000-000000000008">BHGH</set>
 			<related attach="transform">The Light Dragon</related>
