@@ -167,5 +167,70 @@
 			<related attach="transform">Zelda, Princess of Hyrule</related>
 			<tablerow>2</tablerow>
 		</card>
+		<card>
+			<name>Exodia The Forbidden One</name>
+			<text>When Exodia the Forbidden One enters the battlefield, if you control cards named Left and Right Arm of the Forbidden One and Left and Right Leg of the Forbidden One: You Win the Game.</text>
+			<prop>
+				<cmc>3</cmc>
+				<type>Legendary Artifact Creature - God Spellshaper</type>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>2/3</pt>
+			</prop>
+			<set rarity="common" num="9" uuid="00000000-0000-0000-0000-000000000009">BHGH</set>
+		</card>
+		<card>
+			<name>Left Arm of the Forbidden One</name>
+			<text></text>
+			<prop>
+				<cmc>3</cmc>
+				<type>Legendary Artifact Creature - God Spellshaper</type>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>2/3</pt>
+			</prop>
+			<set rarity="common" num="10" uuid="00000000-0000-0000-0000-000000000010">BHGH</set>
+		</card>
+		<card>
+			<name>Right Arm of the Forbidden One</name>
+			<text></text>
+			<prop>
+				<cmc>3</cmc>
+				<type>Legendary Artifact Creature - God Spellshaper</type>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>2/3</pt>
+			</prop>
+			<set rarity="common" num="11" uuid="00000000-0000-0000-0000-000000000011">BHGH</set>
+		</card>
+		<card>
+			<name>Left Leg of the Forbidden One</name>
+			<text></text>
+			<prop>
+				<cmc>3</cmc>
+				<type>Legendary Artifact Creature - God Spellshaper</type>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>2/3</pt>
+			</prop>
+			<set rarity="common" num="12" uuid="00000000-0000-0000-0000-000000000012">BHGH</set>
+		</card>
+		<card>
+			<name>Right Leg of the Forbidden One</name>
+			<text></text>
+			<prop>
+				<cmc>3</cmc>
+				<type>Legendary Artifact Creature - God Spellshaper</type>
+				<maintype>Creature</maintype>
+				<format-commander>legal</format-commander>
+				<side>front</side>
+				<pt>2/3</pt>
+			</prop>
+			<set rarity="common" num="13" uuid="00000000-0000-0000-0000-000000000013">BHGH</set>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
