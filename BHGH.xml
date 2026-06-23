@@ -130,7 +130,7 @@
 				<maintype>Creature</maintype>
 				<format-commander>legal</format-commander>
 				<side>front</side>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<set rarity="common" num="7" uuid="00000000-0000-0000-0000-000000000007">BHGH</set>
 		</card>
@@ -152,7 +152,7 @@
 		</card>
 		<card>
 			<name>The Light Dragon</name>
-			<text>Vigilance, Lifelink. Cards in your hand have plot. The plot cost is equal to its mana cost. Whenever you plot a card or play a plotted card, draw a card.</text>
+			<text>Flying, Lifelink. Cards in your hand have plot. The plot cost is equal to its mana cost. Whenever you plot a card or play a plotted card, draw a card.</text>
 			<prop>
 				<cmc>3</cmc>
 				<type>Legendary Creature - Dragon</type>
