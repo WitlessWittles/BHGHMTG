@@ -28,5 +28,17 @@
             <token>1</token>
             <tablerow>0</tablerow>
         </card>
+		<card>
+            <name>Manifest</name>
+            <text>N/A</text>
+            <prop>
+                <type>Creature</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <reverse-related>Madeline, Mountain Climber</reverse-related>
+            <token>1</token>
+            <tablerow>0</tablerow>
+        </card>
 	</cards>
 </cockatrice_carddatabase>
