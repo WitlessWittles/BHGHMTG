@@ -132,7 +132,7 @@
 				<side>front</side>
 				<pt>3/3</pt>
 			</prop>
-			<set rarity="common" num="7" uuid=00000000-0000-0000-0000-000000000007">BHGH</set>
+			<set rarity="common" num="7" uuid="00000000-0000-0000-0000-000000000007">BHGH</set>
 		</card>
 		<card>
 			<name>Zelda, Princess of Hyrule</name>
@@ -146,7 +146,7 @@
 				<side>front</side>
 				<pt>3/3</pt>
 				</prop>
-			<set rarity="common" num="8" uuid=00000000-0000-0000-0000-000000000008">BHGH</set>
+			<set rarity="common" num="8" uuid="00000000-0000-0000-0000-000000000008">BHGH</set>
 			<related attach="transform">The Light Dragon</related>
 			<tablerow>2</tablerow>
 		</card>
@@ -163,7 +163,7 @@
 				<pt>4/4</pt>
 				<layout>transform</layout>
 			</prop>
-			<set rarity="common" num="8" uuid=00000000-0000-0000-0000-000000000008">BHGH</set>
+			<set rarity="common" num="8" uuid="00000000-0000-0000-0000-000000000008">BHGH</set>
 			<related attach="transform">Zelda, Princess of Hyrule</related>
 			<tablerow>2</tablerow>
 		</card>
