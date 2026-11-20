@@ -121,25 +121,25 @@
 			<set rarity="common" num="6" uuid="00000000-0000-0000-0000-000000000006">BHGH</set>
 		</card>
 		<card>
-			<name>Link, Hero of Hyrule</name>
-			<text>Vigilance, Trample. Whenever Link, Hero of Hyrule enters or attacks, you may play target plotted aura or equipment without paying its mana cost, and attach it to target creature. Creatures you control have, "Whenever you play a plotted card, put a +1/+1 counter on this creature. This triggers only once each turn."</text>
+			<name>Link, Champion of Hyrule</name>
+			<text>Link can pair as  though he were unpaired, and can remain paired with any number of creatures. Each creature paired with Link gets +1/+1, and Link gets +1/+1 for each creature paired with him. Partner - Spirit and blood</text>
 			<prop>
-				<cmc>6</cmc>
-				<type>Legendary Creature - Human Soldier Hero</type>
+				<cmc>2</cmc>
+				<type>Legendary Creature - Elf Warrior Knight</type>
 				<colors>GW</colors>
 				<maintype>Creature</maintype>
 				<format-commander>legal</format-commander>
 				<side>front</side>
-				<pt>4/4</pt>
+				<pt>2/2</pt>
 			</prop>
 			<set rarity="common" num="7" uuid="00000000-0000-0000-0000-000000000007">BHGH</set>
 		</card>
 		<card>
-			<name>Zelda, Princess of Hyrule</name>
-			<text>Lifelink. Cards in your hand have plot. The plot cost is equal to its mana cost. At the beginning of your upkeep, if you have three or more cards plotted, transform Zelda, Princess of Hyrule.</text>
+			<name>Zelda, Sage of Time</name>
+			<text>Soulbond. {2}, {T}: Exile target permanent until the beginning of the next end step. Until end of turn, paired creatures have haste. Partner - Spirit and blood</text>
 				<prop>
 				<cmc>3</cmc>
-				<type>Legendary Creature - Human Noble Cleric</type>
+				<type>Legendary Creature - Elf Avatar Noble</type>
 				<colors>GWU</colors>
 				<maintype>Creature</maintype>
 				<format-commander>legal</format-commander>
@@ -147,25 +147,18 @@
 				<pt>1/3</pt>
 				</prop>
 			<set rarity="common" num="8" uuid="00000000-0000-0000-0000-000000000008">BHGH</set>
-			<related attach="transform">The Light Dragon</related>
-			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>The Light Dragon</name>
-			<text>Flying, Lifelink. Cards in your hand have plot. The plot cost is equal to its mana cost. Whenever you plot a card or play a plotted card, draw a card.</text>
+			<name>The Master Sword</name>
+			<text>Equipped creature gets +2/+1. As long as equipped creature is paired, it has double strike and protection from black. Equip {3}</text>
 			<prop>
-				<cmc>3</cmc>
-				<type>Legendary Creature - Dragon</type>
-				<colors>GWU</colors>
-				<maintype>Creature</maintype>
+				<cmc>1</cmc>
+				<type>Legendary Artifact - Equipment</type>
+				<colors>W</colors>
+				<maintype>Artifact</maintype>
 				<format-commander>legal</format-commander>
-				<side>back</side>
-				<pt>4/4</pt>
-				<layout>transform</layout>
 			</prop>
 			<set rarity="common" num="8" uuid="00000000-0000-0000-0000-000000000008">BHGH</set>
-			<related attach="transform">Zelda, Princess of Hyrule</related>
-			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Exodia The Forbidden One</name>
