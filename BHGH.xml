@@ -158,7 +158,7 @@
 				<maintype>Artifact</maintype>
 				<format-commander>legal</format-commander>
 			</prop>
-			<set rarity="common" num="8" uuid="00000000-0000-0000-0000-000000000008">BHGH</set>
+			<set rarity="common" num="9" uuid="00000000-0000-0000-0000-000000000009">BHGH</set>
 		</card>
 		<card>
 			<name>Exodia The Forbidden One</name>
@@ -171,7 +171,7 @@
 				<side>front</side>
 				<pt>2/3</pt>
 			</prop>
-			<set rarity="common" num="9" uuid="00000000-0000-0000-0000-000000000009">BHGH</set>
+			<set rarity="common" num="10" uuid="00000000-0000-0000-0000-000000000010">BHGH</set>
 		</card>
 		<card>
 			<name>Left Arm of the Forbidden One</name>
@@ -184,7 +184,7 @@
 				<side>front</side>
 				<pt>2/3</pt>
 			</prop>
-			<set rarity="common" num="10" uuid="00000000-0000-0000-0000-000000000010">BHGH</set>
+			<set rarity="common" num="11" uuid="00000000-0000-0000-0000-000000000011">BHGH</set>
 		</card>
 		<card>
 			<name>Right Arm of the Forbidden One</name>
@@ -197,7 +197,7 @@
 				<side>front</side>
 				<pt>2/3</pt>
 			</prop>
-			<set rarity="common" num="11" uuid="00000000-0000-0000-0000-000000000011">BHGH</set>
+			<set rarity="common" num="12" uuid="00000000-0000-0000-0000-000000000012">BHGH</set>
 		</card>
 		<card>
 			<name>Left Leg of the Forbidden One</name>
@@ -210,7 +210,7 @@
 				<side>front</side>
 				<pt>2/3</pt>
 			</prop>
-			<set rarity="common" num="12" uuid="00000000-0000-0000-0000-000000000012">BHGH</set>
+			<set rarity="common" num="13" uuid="00000000-0000-0000-0000-000000000013">BHGH</set>
 		</card>
 		<card>
 			<name>Right Leg of the Forbidden One</name>
@@ -223,7 +223,7 @@
 				<side>front</side>
 				<pt>2/3</pt>
 			</prop>
-			<set rarity="common" num="13" uuid="00000000-0000-0000-0000-000000000013">BHGH</set>
+			<set rarity="common" num="14" uuid="00000000-0000-0000-0000-000000000014">BHGH</set>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
